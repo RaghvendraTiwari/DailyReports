@@ -27,7 +27,7 @@
     <artifactId>log4j</artifactId>
     <version>1.2.17</version>
 </dependency>
-<!-- https://mvnrepository.com/artifact/org.apache.geronimo.specs/geronimo-activation_1.1_spec -->
+<!-- https://mvnrepository.com/artifact/org.apache.geronimo.specs/geronimo-activation_1.1_spec RaghvendraTiwari -->
 <dependency>
     <groupId>org.apache.geronimo.specs</groupId>
     <artifactId>geronimo-activation_1.1_spec</artifactId>
